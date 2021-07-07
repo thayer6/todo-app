@@ -1,3 +1,4 @@
 # todo-app
 
-This is a todo application. It's awesome
+This is a todo application. 
+It's awesome
