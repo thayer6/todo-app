@@ -2,4 +2,4 @@
 
 This is a todo application. 
 
-It's awesome
+It's awesome. Editing the README!
